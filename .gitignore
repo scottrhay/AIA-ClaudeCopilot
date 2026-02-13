@@ -1,19 +1,5 @@
-# Development and planning files
 _dev/
-
-# Python
 __pycache__/
 *.pyc
-*.pyo
-
-# Temporary files
-temp_images/
-*.tmp
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
+.env
+sessions/

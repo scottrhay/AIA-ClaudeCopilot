@@ -1,33 +1,51 @@
-# AI Assistants Training Materials
+# Claude AI Training — 4-Day Curriculum
 
-Training content for Claude Enterprise and Microsoft 365 Copilot.
+Comprehensive Claude training from business essentials to advanced development.
 
-## Courses
+## Course Overview
 
-### Business Track
-- **B1: AI Assistants Essentials** - Prompting fundamentals, Claude basics, M365 Copilot overview
-- **B2: AI Analytics for Business** - Claude for Excel, Copilot in Excel, Analyst Agent
+This training program provides a complete journey from Claude fundamentals to advanced AI agent development, designed for both business users and technical teams.
 
-### Technical Track
-- **T1: Claude Enterprise & Code** - Admin console, Projects, Claude Code, CLAUDE.md
-- **T2: Agents, Skills & MCP** - Agentic patterns, slash commands, MCP connectors
+### Day 1: Business Foundations
+Introduction to AI assistants, practical prompting techniques, and real-world applications for business users. Hands-on labs with document creation and analysis.
 
-## Contents
+### Day 2: Claude for Code
+Enterprise development with Claude, including code generation, debugging, testing, and integration patterns for developers and technical teams.
+
+### Day 3: Advanced Development
+Deep dive into AI agents, skills, Model Context Protocol (MCP), custom commands, hooks, and subagent architectures for building production systems.
+
+### Day 4: Optional & Adoption
+AI adoption strategies, organizational change management, and executive guidance for successful enterprise deployment.
+
+## Repository Structure
 
 ```
-├── slides/          # PowerPoint presentations (4 decks)
-├── labs/            # Hands-on exercises with sample code
-│   ├── sample-project/      # Node.js project for Claude Code labs
-│   └── sample-mcp-server/   # Python MCP server example
-└── handouts/        # Quick reference guides
+slides/          # PowerPoint presentations for each module
+labs/            # Hands-on lab exercises and workshops
+  demo-scripts/  # Demonstration scripts and guides
+  sample-data/   # Example files for labs
+  sample-project/ # Reference project structure
+  sample-mcp-server/ # MCP integration examples
+handouts/        # Reference materials and quick guides
+sample-code/     # Code examples and templates
+  claude-md-examples/ # Markdown formatting examples
+  custom-commands/    # Custom command implementations
 ```
 
 ## Usage
 
-These materials are designed for instructor-led training. Each session is 60-90 minutes with hands-on labs.
+Each slide deck corresponds to a training module. Labs are numbered by day and include step-by-step instructions with sample data.
 
-## Requirements
+Recommended flow:
+1. Present slides for the module
+2. Guide participants through corresponding labs
+3. Use demo scripts to illustrate concepts
+4. Provide handouts as reference materials
 
-- Claude Enterprise license (for T1/T2 labs)
-- Microsoft 365 Copilot license (for B1/B2 labs)
-- VS Code with Claude Code extension (for T1/T2)
+## Copyright & License
+
+© 2026 AIA Copilot  
+All rights reserved.
+
+This is proprietary training content. Unauthorized distribution or reproduction is prohibited.
