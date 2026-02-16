@@ -1,0 +1,57 @@
+STRATEGIC CONTEXT FOR Q1 2026 BOARD BRIEFING
+=============================================
+
+COMPANY OVERVIEW
+- Annual Recurring Revenue (ARR): $18.2M (up from $14.8M in 2024)
+- Employee count: 142 (up from 118)
+- Customer count: 340 accounts (up from 285)
+- Net Revenue Retention: 112%
+- Logo churn: 8% annually
+
+Q4 BOARD PRIORITIES (from last meeting)
+1. Expand into mid-market (50-500 seat deals)
+2. Improve win rate against NimbleOps in developer-led deals
+3. Achieve SOC 2 Type II certification by Q2 2026
+4. Evaluate AI feature roadmap — board wants a plan
+
+BUDGET CONTEXT
+- Q1 budget: $2.4M operating expenses
+- Available for new investment: $400K discretionary
+- Board approved 12 new hires for 2026 (4 per quarter)
+- Marketing budget: $180K/quarter (unchanged from 2025)
+
+STRATEGIC OPTIONS UNDER DISCUSSION
+A) Accelerate SOC 2 Type II + HIPAA BAA ($150K, 4 months)
+   - Opens healthcare and financial services verticals
+   - Directly counters DataFlow Enterprise's compliance advantage
+   - Requires dedicated security engineer hire
+
+B) Build AI features into product ($200K, 6 months)
+   - 60% of Q4 prospects asked about AI capabilities
+   - NimbleOps already has basic AI — we'd need to leapfrog
+   - Could partner with AI vendor vs. build in-house
+
+C) Launch partner channel program ($100K, 3 months)
+   - 15 SI/consulting firms expressed interest in 2025
+   - Low cost, high leverage for mid-market expansion
+   - Requires 2 channel manager hires
+
+D) Double down on sales capacity ($250K, immediate)
+   - Hire 4 reps focused on mid-market
+   - Current team stretched thin — win rate declining
+   - Fastest path to revenue growth
+
+CEO NOTES (from recent all-hands)
+"We're at an inflection point. We can't do everything. Pick 2 of these 4 options and go deep. I'd rather win big on 2 bets than spread thin across 4."
+
+RECENT WINS
+- Landed 3 enterprise accounts (500+ seats) in Q4
+- Product uptime: 99.97% (above 99.9% SLA)
+- Customer satisfaction: NPS 62 (industry avg: 44)
+- Featured in Gartner Cool Vendors report
+
+RECENT CONCERNS
+- Sales cycle lengthening: 45 days → 58 days in Q4
+- Free-to-paid conversion from NimbleOps competitors declining
+- 2 senior engineers left for competitor (DataFlow) in December
+- Support ticket volume up 30% with no headcount increase
