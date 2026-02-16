@@ -1,0 +1,19 @@
+Rep,Region,Month,Revenue,Quota,Deals_Closed,Avg_Deal_Size,Win_Rate,Pipeline_Value
+Sarah Chen,Northeast,October,187500,165000,12,15625,34%,445000
+Sarah Chen,Northeast,November,203000,165000,14,14500,38%,520000
+Sarah Chen,Northeast,December,245000,190000,16,15312,41%,380000
+Marcus Williams,Southeast,October,142000,155000,9,15778,28%,390000
+Marcus Williams,Southeast,November,158000,155000,11,14364,31%,365000
+Marcus Williams,Southeast,December,136000,180000,8,17000,25%,340000
+Priya Patel,West,October,198000,170000,15,13200,36%,510000
+Priya Patel,West,November,221000,170000,17,13000,39%,485000
+Priya Patel,West,December,267000,195000,19,14053,43%,560000
+James O'Brien,Midwest,October,124000,145000,8,15500,26%,320000
+James O'Brien,Midwest,November,131000,145000,9,14556,29%,310000
+James O'Brien,Midwest,December,152000,170000,10,15200,32%,350000
+Lisa Rodriguez,Southwest,October,156000,150000,11,14182,33%,410000
+Lisa Rodriguez,Southwest,November,168000,150000,12,14000,35%,430000
+Lisa Rodriguez,Southwest,December,195000,175000,14,13929,37%,465000
+David Kim,Northeast,October,173000,165000,11,15727,32%,400000
+David Kim,Northeast,November,189000,165000,13,14538,36%,470000
+David Kim,Northeast,December,210000,190000,15,14000,39%,520000

@@ -1,0 +1,44 @@
+COMPETITIVE INTELLIGENCE NOTES - Q4 2025
+Compiled from sales calls, lost deal reviews, and analyst reports
+=========================================================
+
+COMPETITOR 1: CloudStack Pro
+- Pricing: $45/user/month (we're $52/user/month)
+- They keep winning on price in the SMB segment
+- Their onboarding is self-serve, ours requires implementation team
+- WEAKNESS: No custom reporting. Clients outgrow them at 100+ users.
+- WEAKNESS: Support is email-only, 48-hour response time
+- Lost 3 deals to them in Q4 (all under 50 seats)
+- Won 2 deals BACK from them when clients needed analytics
+- Their new CEO is pushing upmarket — expect enterprise features by mid-2026
+- Churn rate reportedly 18% annually (ours is 8%)
+
+COMPETITOR 2: DataFlow Enterprise
+- Pricing: $78/user/month (premium positioning)
+- Strong in financial services and healthcare (compliance features)
+- They have SOC 2 Type II and HIPAA BAA — we only have SOC 2 Type I
+- WEAKNESS: Implementation takes 3-6 months (ours is 4-6 weeks)
+- WEAKNESS: UI is dated, users complain about learning curve
+- Won 1 deal from them in Q4 (client cited ease of use)
+- Lost 2 deals to them (both needed HIPAA compliance)
+- Their sales team is aggressive on multi-year discounts
+- Heard rumors of acquisition by a larger ERP vendor
+
+COMPETITOR 3: NimbleOps
+- Pricing: Freemium model, paid starts at $29/user/month
+- Fastest growing competitor — 200% YoY in our segment
+- Great developer API, strong with technical buyers
+- WEAKNESS: No phone support, community forums only
+- WEAKNESS: Limited integrations with enterprise tools (no SAP, no Oracle)
+- WEAKNESS: Security certifications are minimal — no SOC 2 yet
+- They're winning developer-led deals where IT isn't the buyer
+- Lost 4 deals to them in Q4 (all started as free tier conversions)
+- Won 1 deal from them when procurement required security audit
+- Watch this one — they just raised $85M Series C
+
+MARKET OBSERVATIONS:
+- Buyers increasingly want AI features (mentioned in 60% of Q4 calls)
+- "Time to value" is becoming more important than feature count
+- Enterprise buyers asking about data residency and AI governance
+- Mid-market (50-500 seats) is our strongest segment
+- Budget cycles are tightening — more multi-approval procurement processes
