@@ -1,0 +1,12 @@
+{
+  "name": "status-service",
+  "version": "1.4.2",
+  "description": "Tiny status service used for the Claude Code demo",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
